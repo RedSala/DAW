@@ -38,7 +38,7 @@ Para realizar el commits de Github debes seguir los siguientes pasos:
 * git status
 Una vez realizado el comando anterior, te aparecerá una lista con los archivos que fueron modificados y con los que están agregados al índice, listos para subir.
 Si aún existen archivos sin agregar al índice, debes ejecutar el siguiente comando:
-git add
+* git add
 De esta forma se añaden todos los cambios pendientes.
 1. Ahora vamos a generar el commit ejecutando el siguiente comando:
 git commit -m "Un comentario de los cambios realizados"
