@@ -40,7 +40,7 @@ Una vez realizado el comando anterior, te aparecerá una lista con los archivos 
 Si aún existen archivos sin agregar al índice, debes ejecutar el siguiente comando:
 * git add
 De esta forma se añaden todos los cambios pendientes.
-1. Ahora vamos a generar el commit ejecutando el siguiente comando:
+* Ahora vamos a generar el commit ejecutando el siguiente comando:
 git commit -m "Un comentario de los cambios realizados"
 Es importante que en este paso agregues una descripción clara, esta se guardará en el historial y podremos entender mejor los cambios más adelante.
 
